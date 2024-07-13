@@ -1,0 +1,10 @@
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\bin\Debug\bloqueador de word.exe.config
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\bin\Debug\bloqueador de word.exe
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\bin\Debug\bloqueador de word.pdb
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\obj\Debug\bloqueador de word.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\obj\Debug\bloqueador_de_word.Form1.resources
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\obj\Debug\bloqueador_de_word.Properties.Resources.resources
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\obj\Debug\bloqueador de word.csproj.GenerateResource.Cache
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\obj\Debug\bloqueador de word.exe
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\obj\Debug\bloqueador de word.pdb
+c:\users\steven\documents\visual studio 2013\Projects\bloqueador de word\bloqueador de word\obj\Debug\bloqueador_de_word.Form2.resources
